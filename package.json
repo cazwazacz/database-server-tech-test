@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/cazwazacz/database-server-tech-test#readme",
   "dependencies": {
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "express-session": "^1.15.6"
   },
   "devDependencies": {
     "mocha": "^4.1.0",
