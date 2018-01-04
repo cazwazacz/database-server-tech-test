@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/cazwazacz/database-server-tech-test/issues"
   },
-  "homepage": "https://github.com/cazwazacz/database-server-tech-test#readme"
+  "homepage": "https://github.com/cazwazacz/database-server-tech-test#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
